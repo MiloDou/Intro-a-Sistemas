@@ -1,0 +1,4 @@
+print("----Bienvenido Usuario----")
+print("")
+print("Mi nombre es Ronaldo Emilio Méndez Mayorga")
+print("Mi carnet es 1563224")
